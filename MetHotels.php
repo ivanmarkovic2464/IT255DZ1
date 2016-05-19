@@ -1,3 +1,3 @@
 <?php
-	echo "Prvi domaci, Ivan Markovic 2464.";
+	echo "Prvi domaci, Ivan Markovic.";
 	?>
